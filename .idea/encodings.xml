@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/ChatClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Constant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/HttpClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/UnixTimeUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pers/xiaolz/Dto/Aircraft.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pers/xiaolz/Dto/BasicFunDto.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pers/xiaolz/Dto/BasicReturnDto.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pers/xiaolz/Dto/GetPlayerPersonalDataReturnDetailDto.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pers/xiaolz/Dto/MainBatteryDto.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pers/xiaolz/Dto/MetaDto.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
